@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Taye%20Worku%20Mamo&fontSize=45&fontAlignY=40&color=0:0F172A,50:1E40AF,100:06B6D4&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Taye%20Worku%20Mamo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:020617,30:0F172A,60:1E3A8A,100:06B6D4"/>
 
 # 👨‍💻 Full-Stack Developer | 💊 Pharmacy Student
 
@@ -16,50 +16,63 @@
 
 ---
 
-# ⚡ Developer Profile
+<div align="center">
+
+## 🚀 Available for Remote Full-Stack Developer Opportunities
+
+💼 Full-Time • Contract • Freelance
+
+🌍 Remote Worldwide
+
+</div>
+
+---
+
+# 👨‍💻 About Me
 
 ```javascript
 const taye = {
-    role: "Full-Stack Developer",
-    location: "Ethiopia 🇪🇹",
-    education: "5th Year Pharmacy Student",
-    experience: "6+ Years",
-    
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Next.js"
-    ],
+  name: "Taye Worku Mamo",
+  role: "Full-Stack Developer",
+  education: "5th Year Pharmacy Student",
+  experience: "6+ Years Self-Taught Developer",
 
-    backend: [
-        "PHP",
-        "Node.js",
-        "Express"
-    ],
+  frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Next.js"
+  ],
 
-    database: [
-        "MySQL"
-    ],
+  backend: [
+    "PHP",
+    "Node.js",
+    "Express"
+  ],
 
-    learning: [
-        "TypeScript",
-        "Docker",
-        "System Design"
-    ],
+  database: [
+    "MySQL"
+  ],
 
-    availableFor: [
-        "Remote Jobs",
-        "Freelance Projects",
-        "Collaborations"
-    ]
+  learning: [
+    "TypeScript",
+    "Docker",
+    "System Design"
+  ],
+
+  interests: [
+    "HealthTech",
+    "SaaS",
+    "Automation",
+    "Web Applications"
+  ]
 };
 ```
 
 ---
 
-# 🛠 Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -71,19 +84,16 @@ const taye = {
 
 # 📊 Skill Matrix
 
-<div align="center">
-
-| Technology | Mastery |
-|------------|----------|
-| HTML/CSS | ██████████ 95% |
+| Technology | Level          |
+| ---------- | -------------- |
+| HTML & CSS | ██████████ 95% |
 | JavaScript | █████████░ 90% |
-| PHP | █████████░ 90% |
-| MySQL | ████████░░ 80% |
-| React | ████████░░ 80% |
-| Node.js | ███████░░░ 70% |
-| Next.js | ██████░░░░ 60% |
-
-</div>
+| PHP        | █████████░ 90% |
+| MySQL      | ████████░░ 80% |
+| React      | ████████░░ 80% |
+| Node.js    | ███████░░░ 70% |
+| Next.js    | ██████░░░░ 60% |
+| TypeScript | █████░░░░░ 50% |
 
 ---
 
@@ -91,15 +101,26 @@ const taye = {
 
 <table>
 <tr>
+
 <td width="50%">
 
-## 🎓 College Management System
+## 🎓 Victory College SMS
 
-Student registration, grades, attendance, payments, reporting.
+Student Management System
 
-**Stack**
+### Features
 
-PHP • MySQL • JavaScript
+* Student Registration
+* Grade Management
+* Attendance Tracking
+* Payment Reports
+* Academic Records
+
+### Tech
+
+```text
+PHP • MySQL • Bootstrap
+```
 
 🔗 https://victorycollegesms.iceiy.com
 
@@ -109,23 +130,42 @@ PHP • MySQL • JavaScript
 
 ## 🚌 Online Bus Booking
 
-Reservation system with seat selection and scheduling.
+Transport Reservation Platform
 
-**Stack**
+### Features
 
+* Online Booking
+* Seat Selection
+* Route Scheduling
+* Admin Dashboard
+* Ticket Management
+
+### Tech
+
+```text
 PHP • React • MySQL
+```
 
 🔗 https://onlinebus.zya.me
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ## 🌐 Portfolio Website
 
-Projects, skills, experience and contact.
+Professional Portfolio
+
+### Features
+
+* Projects Showcase
+* Skills Overview
+* Contact Section
+* Responsive Design
 
 🔗 https://tayeworku.epizy.com
 
@@ -135,13 +175,35 @@ Projects, skills, experience and contact.
 
 ## 💊 Drug Interaction Checker
 
-Currently building HealthTech platform.
+Currently Building
 
+### Features
+
+* Drug Search
+* Interaction Detection
+* Medical Information
+* Clinical Alerts
+
+### Tech
+
+```text
 Next.js • Node.js • OpenFDA
+```
 
 </td>
+
 </tr>
 </table>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
@@ -149,45 +211,69 @@ Next.js • Node.js • OpenFDA
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Mission
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
 
 ```text
-[✓] Build impactful software
-[✓] Master modern full-stack development
-[✓] Contribute to open source
-[✓] Expand HealthTech solutions
-[ ] Secure a remote developer role
-[ ] Launch SaaS products
+✅ Build impactful software
+✅ Master modern full-stack development
+✅ Expand healthcare-focused solutions
+✅ Contribute to open source
+
+🎯 Secure a remote developer position
+🎯 Launch a SaaS product
+🎯 Become a HealthTech founder
 ```
 
 ---
 
-# 🌍 Connect With Me
+# 🌱 Currently Learning
+
+```text
+Next.js
+TypeScript
+Docker
+System Design
+Cloud Deployment
+```
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://tayeworku.epizy.com">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://onlinebus.zya.me">
-<img src="https://img.shields.io/badge/Bus%20Booking-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚌_Bus_Booking-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://victorycollegesms.iceiy.com">
-<img src="https://img.shields.io/badge/College%20SMS-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_College_SMS-16A34A?style=for-the-badge"/>
 </a>
 
 </div>
@@ -196,8 +282,10 @@ Next.js • Node.js • OpenFDA
 
 <div align="center">
 
-### ⚡ Building the future with code and healthcare innovation
+### 💡 Building software that solves real-world problems.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E40AF,100:06B6D4"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,30:0F172A,60:1E3A8A,100:06B6D4"/>
