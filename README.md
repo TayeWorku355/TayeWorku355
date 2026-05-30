@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Taye%20Worku%20Mamo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:020617,30:0F172A,60:1E3A8A,100:06B6D4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Taye%20Worku&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:020617,30:0F172A,60:1E3A8A,100:06B6D4"/>
 
 # 👨‍💻 Full-Stack Developer | 💊 Pharmacy Student
 
